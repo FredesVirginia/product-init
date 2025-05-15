@@ -1,3 +1,6 @@
 [submodule "client-getaway"]
 	path = client-getaway
 	url = https://github.com/FredesVirginia/client-getaway.git
+[submodule "productos-ms1-nest"]
+	path = productos-ms1-nest
+	url = https://github.com/FredesVirginia/product-ms.git
