@@ -1,0 +1,3 @@
+[submodule "client-getaway"]
+	path = client-getaway
+	url = https://github.com/FredesVirginia/client-getaway.git
